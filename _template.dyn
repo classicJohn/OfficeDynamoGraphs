@@ -1,0 +1,47 @@
+<Workspace Version="1.3.3.4651" X="-313.868820068182" Y="-146.841522665361" zoom="0.988177595938079" ScaleFactor="1" Name="Home" Description="" RunType="Automatic" RunPeriod="1000" HasRunWithoutCrash="True">
+  <NamespaceResolutionMap />
+  <Elements />
+  <Connectors />
+  <Notes>
+    <Dynamo.Graph.Notes.NoteModel guid="5ef6755b-71e5-4c6e-ad30-ef97dc29d3ac" text="&lt;/Title&gt;" x="1668.69795424209" y="435.010436361911" />
+    <Dynamo.Graph.Notes.NoteModel guid="325e936c-5116-4767-a8ff-ce0ea942fc73" text="For changes made to Revit" x="1070.5873646429" y="530.623734986795" />
+    <Dynamo.Graph.Notes.NoteModel guid="318e3ef7-b36c-456c-a43e-e43a6a4f9a7b" text="For notes and titles" x="1260.71668449816" y="531.132762605449" />
+    <Dynamo.Graph.Notes.NoteModel guid="aaba4e69-0bea-4a71-b075-94fd1bc4be95" text="For sliders and other options" x="867.81592716415" y="529.938241173309" />
+    <Dynamo.Graph.Notes.NoteModel guid="6d760212-d931-4eb9-b2bc-c73ec0459155" text="For selection and whatnot" x="675.877214302755" y="529.93824117331" />
+    <Dynamo.Graph.Notes.NoteModel guid="7a94d1e5-e5fa-4c92-ae1f-2e0623bdd972" text="For workflow " x="526.743683252872" y="529.938241173309" />
+    <Dynamo.Graph.Notes.NoteModel guid="13c464ec-3777-466d-b0b8-2104a509a360" text="&lt;Title&gt;" x="528.216612413185" y="434.137649796498" />
+    <Dynamo.Graph.Notes.NoteModel guid="71f8955f-622b-4827-b668-94009f0d28b1" text="For general Information" x="1409.00441571263" y="531.086886279586" />
+    <Dynamo.Graph.Notes.NoteModel guid="1584213a-e799-4948-b7a1-40293ea1d988" text="For general other needs" x="1585.60242895621" y="531.159581767755" />
+  </Notes>
+  <Annotations>
+    <Dynamo.Graph.Annotations.AnnotationModel guid="4dbcd780-0780-49ce-a264-0f679b5f798f" annotationText="Parallax Dynamo Template" left="518.216612413185" top="381.137649796498" width="1224.48134182891" height="97.872786565413" fontSize="36" InitialTop="434.137649796498" InitialHeight="141.059858754912" TextblockHeight="43" backgrouund="#FF48B9FF">
+      <Models ModelGuid="13c464ec-3777-466d-b0b8-2104a509a360" />
+      <Models ModelGuid="5ef6755b-71e5-4c6e-ad30-ef97dc29d3ac" />
+    </Dynamo.Graph.Annotations.AnnotationModel>
+    <Dynamo.Graph.Annotations.AnnotationModel guid="10327be5-7a37-4260-90a1-28a52194b09c" annotationText="Input" left="665.877214302755" top="490.93824117331" width="177" height="83" fontSize="24" InitialTop="529.93824117331" InitialHeight="123" TextblockHeight="29" backgrouund="#FFB0C4DE">
+      <Models ModelGuid="6d760212-d931-4eb9-b2bc-c73ec0459155" />
+    </Dynamo.Graph.Annotations.AnnotationModel>
+    <Dynamo.Graph.Annotations.AnnotationModel guid="2171a8aa-f579-41cc-916e-7164df186762" annotationText="Background" left="516.743683252872" top="490.938241173309" width="136.823333333333" height="83" fontSize="24" InitialTop="529.938241173309" InitialHeight="123" TextblockHeight="29" backgrouund="#FFD3D3D3">
+      <Models ModelGuid="7a94d1e5-e5fa-4c92-ae1f-2e0623bdd972" />
+    </Dynamo.Graph.Annotations.AnnotationModel>
+    <Dynamo.Graph.Annotations.AnnotationModel guid="4f08045c-9645-438a-8c79-a76c373bb7f6" annotationText="Control" left="857.81592716415" top="490.938241173309" width="192" height="83" fontSize="24" InitialTop="529.938241173309" InitialHeight="123" TextblockHeight="29" backgrouund="#FF90EE90">
+      <Models ModelGuid="aaba4e69-0bea-4a71-b075-94fd1bc4be95" />
+    </Dynamo.Graph.Annotations.AnnotationModel>
+    <Dynamo.Graph.Annotations.AnnotationModel guid="d7bac7a2-0a34-4282-b789-b2be6b617090" annotationText="To Revit" left="1060.5873646429" top="491.623734986795" width="181" height="83" fontSize="24" InitialTop="530.623734986795" InitialHeight="123" TextblockHeight="29" backgrouund="#FFFFA07A">
+      <Models ModelGuid="325e936c-5116-4767-a8ff-ce0ea942fc73" />
+    </Dynamo.Graph.Annotations.AnnotationModel>
+    <Dynamo.Graph.Annotations.AnnotationModel guid="8a3d9717-e1fb-44a9-bdb7-cde4a1021b14" annotationText="Annotation" left="1250.71668449816" top="492.132762605449" width="141" height="83" fontSize="24" InitialTop="531.132762605449" InitialHeight="123" TextblockHeight="29" backgrouund="#FF87CEFA">
+      <Models ModelGuid="318e3ef7-b36c-456c-a43e-e43a6a4f9a7b" />
+    </Dynamo.Graph.Annotations.AnnotationModel>
+    <Dynamo.Graph.Annotations.AnnotationModel guid="87b35407-8d91-47ec-8646-afb5bec4217e" annotationText="Info" left="1399.00441571263" top="492.086886279586" width="165" height="83" fontSize="24" InitialTop="531.086886279586" InitialHeight="123" TextblockHeight="29" backgrouund="#FFFFE4C4">
+      <Models ModelGuid="71f8955f-622b-4827-b668-94009f0d28b1" />
+    </Dynamo.Graph.Annotations.AnnotationModel>
+    <Dynamo.Graph.Annotations.AnnotationModel guid="568683e9-2046-4bd4-b278-1a96335bf088" annotationText="Other" left="1575.60242895621" top="492.159581767755" width="166" height="83" fontSize="24" InitialTop="531.159581767755" InitialHeight="160.251445779565" TextblockHeight="29" backgrouund="#FF66CDAA">
+      <Models ModelGuid="1584213a-e799-4948-b7a1-40293ea1d988" />
+    </Dynamo.Graph.Annotations.AnnotationModel>
+  </Annotations>
+  <Presets />
+  <Cameras>
+    <Camera Name="Background Preview" eyeX="-17" eyeY="24" eyeZ="50" lookX="12" lookY="-13" lookZ="-58" upX="0" upY="1" upZ="0" />
+  </Cameras>
+</Workspace>
